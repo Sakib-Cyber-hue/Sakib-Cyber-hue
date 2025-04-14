@@ -48,9 +48,10 @@ Here are some cool things I’ve built or working on:
 
 ### 📫 Let's Connect
 
-- 📧 Email: yourname@email.com *(চাইলে আপডেট করে দিও)*
+- 📧 Email: engrsakibahmed.ai@gmail.com
 - 🌐 GitHub: [Sakib-Cyber-hue](https://github.com/Sakib-Cyber-hue)
 - 💬 Available for learning, discussion, and collaboration
+- 💬 Whatsapp: +8801600343761, +8801571118901
 
 ---
 
