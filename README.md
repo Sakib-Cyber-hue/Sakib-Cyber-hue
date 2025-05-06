@@ -2,7 +2,8 @@
 
 <p align="center">
   🚀 Computer Science Engineer | 🧠 AI Enthusiast | 🛡️ Cybersecurity Learner <br/>
-  📍 Based in Dhaka, Bangladesh | 💼 Executive @ IGL Web Limited
+   Machine Learning and AI Engineer (Python Expert) <br/>
+  📍 Based in Dhaka, Bangladesh | 
 </p>
 
 ---
@@ -25,14 +26,6 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 
 ---
-
-### 📌 Pinned Projects
-
-Here are some cool things I’ve built or working on:
-
-- 🔐 Bulk SMS Sender with Mock Gateway *(Flask based project)*
-- 🧠 Smart Tools (Coming soon!)
-- 💡 Beginner-friendly Python Apps
 
 ---
 
